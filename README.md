@@ -15,9 +15,7 @@
 #### Technologies
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Scala](https://img.shields.io/badge/-Scala-05122A?style=flat&logo=Scala)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL)&nbsp;
+
 
