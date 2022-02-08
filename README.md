@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I am Kevin CHristian ZANOU
 
 
 - 🌱 I’m currently learning AI/ML with Python and R, Scala 
