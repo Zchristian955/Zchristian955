@@ -56,3 +56,9 @@
 </p>
 
 
+
+## Where to find me
+<p align="left">
+  <a href="https://www.linkedin.com/in/kevin-christian-zanou-6a957619a/"><img src="https://img.shields.io/badge/-Christian%20ZANOU-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:zchristian955@gmail.com"><img src="https://img.shields.io/badge/-zchristian955@gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
