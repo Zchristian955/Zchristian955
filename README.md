@@ -62,3 +62,8 @@
   <a href="https://www.linkedin.com/in/kevin-christian-zanou-6a957619a/"><img src="https://img.shields.io/badge/-Christian%20ZANOU-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:zchristian955@gmail.com"></a>
 </p>
+
+
+
+## Watch my contribution graph eaten by the snake🐍
+![Christian ZANOU snake gif](https://github.com/Zchristian955/Zchristian955/blob/output/github-contribution-grid-snake.svg)
