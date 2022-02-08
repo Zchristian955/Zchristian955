@@ -65,5 +65,3 @@
 
 
 
-## Watch my contribution graph eaten by the snake🐍
-![Christian ZANOU snake gif](https://github.com/Zchristian955/Zchristian955/blob/output/github-contribution-grid-snake.svg)
